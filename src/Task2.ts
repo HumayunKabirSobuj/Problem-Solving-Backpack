@@ -22,4 +22,4 @@ const getBookTitles = (arr: Book[]): string[] => {
   return arr.map((book) => book.title);
 };
 
-console.log(getBookTitles(books));
+// console.log(getBookTitles(books));

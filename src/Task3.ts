@@ -17,4 +17,4 @@ function composedTheFunctions(num: number): number {
   return addFive(double(square(num)));
 }
 
-console.log(composedTheFunctions(3));
+// console.log(composedTheFunctions(3));
